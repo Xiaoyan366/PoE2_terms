@@ -1,9 +1,5 @@
-source	target	tgt_lng
-Steam	Steam	
-Epic Games	Epic Games	
-PlayStation	PlayStation	
-Xbox	Xbox	
-Switch	Switch	
-Steam	Steam	
-Epic Games	Epic Games	
-PlayStation	PlayStation	
+source,target,tgt_lng
+Blockchain,区块链,
+Cryptocurrency,加密货币,
+Token,代币,
+...
